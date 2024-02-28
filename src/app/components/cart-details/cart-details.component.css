@@ -1,0 +1,13 @@
+.table-fixed {
+  table-layout: fixed;
+}
+
+.table-image {
+  width: 20%;
+}
+.table-details {
+  width: 50%;
+}
+.table-empty {
+  width: 30%;
+}
